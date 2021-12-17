@@ -1,0 +1,45 @@
+yicheng huang
+Yicheng_huang@student.uml.edu
+12/16/2021
+For HW5
+
+step to finish this homewor,
+
+1 get a simple .html and .css with those .jpg
+
+2.be carful of the data struct of letter.
+ we have one from professor that helps a lot 
+
+3. random get 7 letters for user. and total is 100.
+From the data, we need 100 in total, each letter has a number with score.
+
+4. help the user can drop those letter to the right place.
+this is the hardest part in the homework.
+use some funtion to declear the boxes
+and check when user move the tile.
+not easy to make those tile dropable.
+
+5. count the source of all the letters
+just count the scoure and be carful about double part.
+there are two different double.
+one is double letter, the other is double all word.
+just check do not take mistake on that.
+
+6. get some buttom for restar and next
+some buttoms to help user to enjoy the game.
+//extra
+
+7. //check that word in dictionary
+
+8.// Full Scrabble board lines 
+
+So in this homework, I really have a simple html and css
+I just spend major time in the JQ part about the logic
+try to get idea to make user join the game.
+I only finish most part of requires and get trouble with the extra parts.
+not have a good idea for the blank letter 
+which make it diffcult to check the dictionary.
+
+(2) Except for the first letter, all sub-subsequent letters must be placed directly next to or below
+another letter with no space. Else, they will bounce back to the “rack”.
+this is only one does not work here.
